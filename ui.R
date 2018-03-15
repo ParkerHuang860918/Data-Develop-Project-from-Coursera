@@ -40,7 +40,7 @@ shinyUI(fluidPage(
       #verbatimTextOutput("Pvalue"),
       h4("Plot of Model"),
       plotOutput("plot_model"),
-      a(href="http://rpubs.com/HUANF2C/369819", "Click here for presentation link")
+      a(href="http://rpubs.com/HUANF2C/369826", "Click here for presentation link")
       
       
     )
